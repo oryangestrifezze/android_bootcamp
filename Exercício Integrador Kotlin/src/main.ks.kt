@@ -62,14 +62,20 @@ fun main() {
     println(parking.addVehicle(car17))
     println(parking.addVehicle(car18))
     println(parking.addVehicle(car19))
+    println("Veículos no estacionamento: ${parking.vehicles.size}")
+
     println(parking.addVehicle(car20))
 
-    println(parking.vehicles.size)
+    println("====================================")
+
+    println("Veículos no estacionamento: ${parking.vehicles.size}")
 
     parking.listVehicles()
+    println("====================================")
 
     val parkingSpace = ParkingSpace(car19, parking)
-
     println(parkingSpace)
-    println(parkingSpace.checkoutVehicle("Car19"))
+¢
+    println("====================================")
+    parkingSpace.checkoutVehicle("Car19")
 }

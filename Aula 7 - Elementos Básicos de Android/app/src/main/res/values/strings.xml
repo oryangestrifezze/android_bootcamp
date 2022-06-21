@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Login</string>
+    <string name="title_form">Faça seu Login</string>
+    <string name="button_send">Log Inquit</string>
+    <string name="button_back">Voltar</string>
+    <string name="button_view_model">View Model</string>
+    <string name="title_activity_binding">Activity Viw Binding</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
