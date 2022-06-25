@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dfe8837-b2e5-4f90-82cc-9a10dd9bdb85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercício Integrador Android/app/src/main/java/vm/StartViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercício Integrador Android/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 5 -  Introdução Android/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 5 -  Introdução Android/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula 6 - Design de visualizaçoes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula 6 - Design de visualizaçoes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exemplo ListView/meli-bootcamp-android" beforeDir="false" afterPath="$PROJECT_DIR$/../Exemplo ListView/meli-bootcamp-android" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Avevxr5yZeBDVHd7VR2dR0vTJq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dfe8837-b2e5-4f90-82cc-9a10dd9bdb85" name="Changes" comment="" />
+      <created>1655894720838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655894720838</updated>
+    </task>
+    <servers />
+  </component>
+</project>
